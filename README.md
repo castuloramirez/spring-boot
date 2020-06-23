@@ -1,2 +1,2 @@
-# spring-boot
+# SPRING-BOOT
 List of Spring Boot Tutorials
